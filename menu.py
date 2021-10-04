@@ -107,7 +107,6 @@ def opcao_06():
     retorno_menu()
 
 def opcao_07():
-    print("Encerrando programa...")
     encerramento()
 
 def encerramento():
